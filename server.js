@@ -2,7 +2,7 @@ var express = require('express');
 var bodyParser = require('body-parser');
 var path = require('path');
 var methodOverride = require('method-override');
-
+var port = 3000
 //express setup
 var app = express();
 
