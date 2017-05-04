@@ -1,0 +1,16 @@
+body{
+  
+}
+.list-group-item{
+  border: none;
+}
+#burger-pic{
+  height: 200px;
+}
+#add-burger{
+  margin-top: 10px;
+}
+.btn{
+  background-color: white;
+  border: solid 1px black;
+}
